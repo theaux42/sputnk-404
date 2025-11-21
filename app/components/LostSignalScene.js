@@ -56,7 +56,7 @@ export default function LostSignalScene() {
           </div>
 
           <div className="lost-actions">
-            <Link href="/" className="btn btn-primary">
+            <Link href="https://sputnk.net" className="btn btn-primary">
               Return to Mission Control
             </Link>
             <a
