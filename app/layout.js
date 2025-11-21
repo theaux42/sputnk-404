@@ -20,7 +20,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata = {
-  title: "SPUTNK :: Mission Control Center",
+  title: "SPUTNK :: 404",
   description: "Classified Mission Control Center - Security Clearance Required",
 };
 
